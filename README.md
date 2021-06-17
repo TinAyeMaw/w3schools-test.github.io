@@ -18,7 +18,7 @@ You can add almost anything to the index.html file between the indicated comment
 `<!-- Insert your message below here -->`
 I am getting started with remote repo in git bash
 
-
+learned to use git pull origin
 ``
 Message Here
 ``
